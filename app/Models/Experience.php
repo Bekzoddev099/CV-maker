@@ -12,7 +12,7 @@ class Experience extends Model
     protected $fillable = [
         'name',
         'decription',
-        'start_date',
-        'end_date',
+        'access_data',
+        'resignation_data',
     ];
 }
